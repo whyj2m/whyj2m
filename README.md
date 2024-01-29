@@ -11,6 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p> whyjm0902@gmail.com </p>
+<p> 010-8880-2998 </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
