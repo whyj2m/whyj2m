@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whyj2m&label=Profile%20views&color=0e75b6&style=flat" alt="whyj2m" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <p> whyjm0902@gmail.com </p>
 <p> 010-8880-2998 </p>
 </p>
