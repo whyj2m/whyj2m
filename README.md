@@ -10,7 +10,7 @@
 <p> whyjm0902@gmail.com </p>
 <p> 010-8880-2998 </p>
 </p>
-<a href= "https://dapper-wolverine-860.notion.site/l-48d62a8abf874d5fa0809b0a190a8cd4?pvs=4" </a>
+<a href= "https://dapper-wolverine-860.notion.site/l-48d62a8abf874d5fa0809b0a190a8cd4?pvs=4"> </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
