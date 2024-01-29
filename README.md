@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 
-<h3 align="center">저는 신입 개발자! 윤주민입니다. 안녕하세요!</h3>
+<h3 align="left">저는 신입 개발자! 윤주민입니다. 안녕하세요!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=whyj2m&label=Profile%20views&color=0e75b6&style=flat" alt="whyj2m" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whyj2m&label=Profile%20views&color=0e75b6&style=flat" alt="whyj2m" /> </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <p> whyjm0902@gmail.com </p>
 <p> 010-8880-2998 </p>
 </p>
-<a href= "https://dapper-wolverine-860.notion.site/l-48d62a8abf874d5fa0809b0a190a8cd4?pvs=4"> </a>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
