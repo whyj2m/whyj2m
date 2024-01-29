@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[<p> whyjm0902@gmail.com </p>](https://dapper-wolverine-860.notion.site/l-48d62a8abf874d5fa0809b0a190a8cd4?pvs=4)
+[<p> whyjm0902@gmail.com </p>]
 <p> 010-8880-2998 </p>
 </p>
 
