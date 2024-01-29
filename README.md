@@ -11,7 +11,9 @@
 <p> 010-8880-2998 </p>
 </p>
 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://dapper-wolverine-860.notion.site/l-48d62a8abf874d5fa0809b0a190a8cd4?pvs=4){:target="_blank"}
+<a href="https://dapper-wolverine-860.notion.site/l-48d62a8abf874d5fa0809b0a190a8cd4?pvs=4" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+</a>
 
 
 
